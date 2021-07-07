@@ -1,5 +1,4 @@
 {
-	"challenge_id": "1",
 	"user_entries_data": [
 		{"user": "ABCDEFGH", "records": [4.2, 5, 12, 2, 4.12]},
 		{"user": "ABCDEFGI", "records": [3.15]},
