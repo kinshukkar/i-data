@@ -1,8 +1,8 @@
 {
-	"user_entries_data": [
-		{"user": "ABCDEFGH", "records": [4.2, 5, 12, 2, 4.12]},
-		{"user": "ABCDEFGI", "records": [3.15]},
-		{"user": "ABCDEFGJ", "records": [6.2, 1, 5.12]}
-
-	]
+	"challengeId": 1,
+	"activity_records":	{
+		"ABCDEFGH": [4.2, 5, 12, 2, 4.12]},
+		"ABCDEFGI": [3.15],
+		"ABCDEFGJ": [6.2, 1, 5.12]
+	}
 }
